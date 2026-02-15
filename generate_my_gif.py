@@ -103,7 +103,7 @@ def main():
         images=images,
         masks=masks,
         output_path=output_file,
-        image_duration=400,        # Show image for 400ms
+        image_duration=700,        # Show image for 400ms
         mask_duration=1200,        # Show overlay for 1200ms
         class_colors=class_colors,
         mask_alpha=0.4,            # Low opacity (40%) for better visibility
